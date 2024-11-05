@@ -19,7 +19,7 @@ Before running this project, ensure you have:
 
 1. **Python 3.x**: This project requires Python 3.
 2. **Ngrok**: Used to expose your local server to the internet.
-3. **LINE Notify Token**: Required for sending notifications to your LINE account.
+3. **LINE Bot Token**: Required for sending notifications to your LINE account.
 4. **OpenWeatherMap API Key**: Used to fetch weather data for different cities.
 
 ### Installation
